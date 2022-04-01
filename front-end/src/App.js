@@ -1,12 +1,13 @@
 import React from  'react';
 import { Ss } from './sam';
-
+import Style from './cssstyle';
  function App()
  {
      return(
          <>
              <h1>hello there </h1>
              <Ss/>
+             <Style/>
          </>
          
      )
